@@ -38,11 +38,11 @@ body {
 
 .green{
     background-color: chartreuse;
-    border-radius: 10px;
+border-radius: 10px;
 }
 
 .anchor{
-    background-color: bisque;
+    background-color: rgb(238, 236, 234);
     border-radius: 10px;
     position: absolute;
     top: anchor(top);
